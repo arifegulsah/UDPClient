@@ -1,0 +1,11 @@
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\bin\Debug\HaberlesmeGulsah.exe.config
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\bin\Debug\HaberlesmeGulsah.exe
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\bin\Debug\HaberlesmeGulsah.pdb
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\obj\Debug\HaberlesmeGulsah.csproj.AssemblyReference.cache
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\obj\Debug\HaberlesmeGulsah.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\obj\Debug\HaberlesmeGulsah.csproj.CoreCompileInputs.cache
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\obj\Debug\HaberlesmeGulsah.csproj.CopyComplete
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\obj\Debug\HaberlesmeGulsah.exe
+C:\Users\PC-2586\Desktop\HaberlesmeGulsah\HaberlesmeGulsah\obj\Debug\HaberlesmeGulsah.pdb
